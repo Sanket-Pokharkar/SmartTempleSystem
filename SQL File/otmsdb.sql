@@ -37,7 +37,7 @@ CREATE TABLE `abhishek` (
   `Status` varchar(30) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
---
+-- abhishek  table 
 -- Dumping data for table `abhishek`
 --
 
